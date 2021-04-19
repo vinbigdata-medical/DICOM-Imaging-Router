@@ -8,3 +8,4 @@ X-ray imaging is the most commonly used imaging modality in clinical practice, r
 # Preprocess X-ray image  
 
 # Architecture  
+![title](Images/Pipeline.png)
