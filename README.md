@@ -19,7 +19,7 @@ X-ray imaging is the most commonly used imaging modality in clinical practice, r
 - Configuaration used in the paper are in folder utils. It is recommended that you change training configuaration in constants.py  
 ```
   step1: 
-    pip install -r requirement.txt
+    pip install -r requirements.txt
   step2:
     python training.py
   step3:
