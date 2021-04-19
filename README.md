@@ -8,4 +8,19 @@ X-ray imaging is the most commonly used imaging modality in clinical practice, r
 # Preprocess X-ray image  
 
 # Architecture  
-![title](images/Pipeline.jpg)
+![title](images/Pipeline.jpg)  
+
+# Model training  
+
+# Performance  
+| Model | Recall | Precision | F1-score|
+|-------|--------|-----------|---------|
+| MobileNet-V1 | 0.982(0.975-0.987) | 0.981(0.975-0.987) | 0.981(0.976-0.987) |  
+| MobileNet-V2 | 0.967(0.985-0.976) | 0.979(0.974-0.985) | 0.972(0.965-0.980) |  
+| ResNet18     | 0.923(0.909-0.937) | 0.939(0.927–0.951) | 0.930(0.917–0.942) |  
+| ResNet34     | 0.923(0.909–0.937) | 0.935(0.923–0.948) | 0.929(0.916–0.941) |  
+| EfficientNet-B0 | 0.975(0.968–0.981) | 0.980(0.975–0.986) | 0.977(0.971–0.983) |  
+| EfficientNet-B1 | 0.969(0.961–0.977) | 0.977(0.971–0.983) | 0.973(0.966–0.980)|  
+| EfficientNet-B2 | 0.973(0.965–0.980) | 0.977(0.972–0.984) | 0.975(0.969–0.982) |  
+
+
